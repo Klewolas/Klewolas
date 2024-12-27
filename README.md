@@ -15,3 +15,6 @@ Computer Engineering | Sakarya University
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klewolas&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
+## -LeetCode
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Klewolas?theme=dark&ext=activity)](https://leetcode.com/Klewolas)
